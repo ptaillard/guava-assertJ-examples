@@ -1,6 +1,11 @@
 # Examples of use
 
 ## AssertJ
+/!\ AssertJ version depends on Java version:
+- Java6 => AssertJ version 1.x.x
+- Java7 => AssertJ version 2.x.x
+- Java8 => AssertJ version 3.x.x
+
 * [AssertJ for Objects and Collection](https://github.com/ptaillard/guava-assertJ-examples/blob/master/src/test/java/com/dojo/assertj/AssertJShould.java)
 * [AssertJ for Guava](https://github.com/ptaillard/guava-assertJ-examples/blob/master/src/test/java/com/dojo/assertj/AssertJGuavaShould.java)
 
