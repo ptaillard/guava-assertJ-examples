@@ -4,6 +4,10 @@
 * [AssertJ for Objects and Collection](https://github.com/ptaillard/guava-assertJ-examples/blob/master/src/test/java/com/dojo/assertj/AssertJShould.java)
 * [AssertJ for Guava](https://github.com/ptaillard/guava-assertJ-examples/blob/master/src/test/java/com/dojo/assertj/AssertJGuavaShould.java)
 
+For using your Hamcrest Matchers within AssertJ assertions:
+[AssertJ Extensions](https://github.com/danhaywood/java-assertjext)
+
+
 /!\ AssertJ version depends on Java version:
 - Java6 => AssertJ version 1.x.x
 - Java7 => AssertJ version 2.x.x
